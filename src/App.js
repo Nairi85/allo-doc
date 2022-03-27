@@ -3,7 +3,7 @@ import { useState } from "react";
 import Content from "./components/Content";
 import './App.css';
 import { ContextInfo } from "./ContextFunction";
-import TranslateContext from "./contexts/translate";
+import  TranslateContext from "./contexts/translate";
 
 
 
