@@ -1,0 +1,26 @@
+.notification{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 29px;
+    height: 30px;
+    margin-left: 32px;
+}
+.not__num{
+    width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    background: #FF9F28;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 7px;
+    position: absolute;
+    top: -9px;
+    left: -9px;
+}
+.bell{
+    width: 100%;
+}

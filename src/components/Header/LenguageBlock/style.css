@@ -1,0 +1,11 @@
+.leng__block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 63px;
+    height: 29px;
+    position: absolute;
+    top: 0px;
+    right:0;
+   
+}

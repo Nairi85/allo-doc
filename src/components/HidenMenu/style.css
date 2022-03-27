@@ -1,0 +1,16 @@
+.hiden_menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border-radius: 5px;
+    width: 219px;
+    box-shadow: gray 0 0 10px;
+    position: absolute;
+    top: 80px;
+    right: 0;
+    z-index: 2;
+    background: white;
+}
+.menuLine-text{
+    margin-left: 9px;
+}

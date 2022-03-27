@@ -1,0 +1,25 @@
+.bolock1__left__bottom{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.bolock1__left__bottom__text{
+font-family:"Montserrat",sans-serif ; 
+font-weight:400 ;
+font-size:16px ;
+line-height:30.58px ;
+letter-spacing:-0.3px ;
+text-align: start;
+}
+.span1{
+    font-weight: 900;
+    text-decoration: underline orange 3px;
+}
+.span2{
+    font-weight: 600;
+    color: #56CCF2;
+}
+.black1__bottonBlock{
+    margin-top: 61px;
+    display: flex;
+}

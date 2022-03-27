@@ -1,0 +1,22 @@
+.Block1__left{
+    margin-top: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 514px;
+    height: 88px;
+    color:  #4F4F4F;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -0.3px;
+}
+.Block1__left__title{
+   text-align: start;
+   margin-bottom: 51px;
+}
+.Block1__left__span1{
+   text-decoration:underline orange 5px;
+}
